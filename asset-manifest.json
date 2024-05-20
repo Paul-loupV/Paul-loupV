@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Paul-loupV/static/css/main.5c1f4b03.css",
+    "main.css": "/Paul-loupV/static/css/main.d1858762.css",
     "main.js": "/Paul-loupV/static/js/main.c72fe534.js",
     "static/js/453.ad6d68b4.chunk.js": "/Paul-loupV/static/js/453.ad6d68b4.chunk.js",
     "static/media/BGC.jpg": "/Paul-loupV/static/media/BGC.0cc73be7227a1bcedc09.jpg",
     "static/media/404.jpg": "/Paul-loupV/static/media/404.d745ca21dca6bab72804.jpg",
     "index.html": "/Paul-loupV/index.html",
-    "main.5c1f4b03.css.map": "/Paul-loupV/static/css/main.5c1f4b03.css.map",
+    "main.d1858762.css.map": "/Paul-loupV/static/css/main.d1858762.css.map",
     "main.c72fe534.js.map": "/Paul-loupV/static/js/main.c72fe534.js.map",
     "453.ad6d68b4.chunk.js.map": "/Paul-loupV/static/js/453.ad6d68b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c1f4b03.css",
+    "static/css/main.d1858762.css",
     "static/js/main.c72fe534.js"
   ]
 }
