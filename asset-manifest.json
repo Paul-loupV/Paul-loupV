@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Paul-loupV/static/css/main.5c3d91e3.css",
-    "main.js": "/Paul-loupV/static/js/main.8608486c.js",
+    "main.css": "/Paul-loupV/static/css/main.cf61ad06.css",
+    "main.js": "/Paul-loupV/static/js/main.cfe05702.js",
     "static/js/453.ad6d68b4.chunk.js": "/Paul-loupV/static/js/453.ad6d68b4.chunk.js",
     "static/media/BGC.jpg": "/Paul-loupV/static/media/BGC.0cc73be7227a1bcedc09.jpg",
     "static/media/404.jpg": "/Paul-loupV/static/media/404.d745ca21dca6bab72804.jpg",
     "index.html": "/Paul-loupV/index.html",
-    "main.5c3d91e3.css.map": "/Paul-loupV/static/css/main.5c3d91e3.css.map",
-    "main.8608486c.js.map": "/Paul-loupV/static/js/main.8608486c.js.map",
+    "main.cf61ad06.css.map": "/Paul-loupV/static/css/main.cf61ad06.css.map",
+    "main.cfe05702.js.map": "/Paul-loupV/static/js/main.cfe05702.js.map",
     "453.ad6d68b4.chunk.js.map": "/Paul-loupV/static/js/453.ad6d68b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c3d91e3.css",
-    "static/js/main.8608486c.js"
+    "static/css/main.cf61ad06.css",
+    "static/js/main.cfe05702.js"
   ]
 }
